@@ -4,7 +4,7 @@ Thanks for helping. Platforms change their pages often, so fixes are welcome.
 
 ## Setup
 
-    git clone https://github.com/YOUR-USERNAME/social-pulse.git
+    git clone https://github.com/p33mTheRealOne/social-pulse.git
     cd social-pulse
     python -m venv venv
     source venv/bin/activate        # Windows: venv\Scripts\activate
