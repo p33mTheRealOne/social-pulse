@@ -50,12 +50,9 @@ Put the link in double quotes. Links usually contain `&`, and without quotes you
 
     social-pulse "https://www.tiktok.com/@noimpurity/video/7687658250057075990"
 
-The output looks like this (the numbers here are placeholders):
+The output looks like this:
 
-    +----------------------------------------------------------------------------+
-    | Platform | Author   | Likes  | Comments | Reposts | Shares | Saves | Views  |
-    | tiktok   | someuser | 10,500 | 315      | 0       | 1,755  | 1,386 | 26,700 |
-    +----------------------------------------------------------------------------+
+![social-pulse output for a TikTok link](docs/output.png)
 
 A link copied straight from the browser works too, tracking parameters included:
 
