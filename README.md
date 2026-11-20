@@ -26,7 +26,7 @@ You need Python 3.11 or newer. It is not on PyPI yet, so install from a clone.
 
 macOS and Linux:
 
-    git clone https://github.com/YOUR-USERNAME/social-pulse.git
+    git clone https://github.com/p33mTheRealOne/social-pulse.git
     cd social-pulse
     python3 -m venv venv
     source venv/bin/activate
@@ -34,7 +34,7 @@ macOS and Linux:
 
 Windows (cmd):
 
-    git clone https://github.com/YOUR-USERNAME/social-pulse.git
+    git clone https://github.com/p33mTheRealOne/social-pulse.git
     cd social-pulse
     python -m venv venv
     venv\Scripts\activate
