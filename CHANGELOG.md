@@ -2,6 +2,7 @@
 
 ## 0.5.1
 - New `views_source` field (`public` or `app`, Instagram only) so the public views counter cannot be mistaken for the app's play count. It appears in JSON, CSV and the API, and the table shows `(public)` next to those numbers.
+- The Instagram views warning no longer appears when you did not ask for views (for example with `--fields likes`).
 
 ## 0.5.0
 - Documentation: new README, contributing guide, security policy.
